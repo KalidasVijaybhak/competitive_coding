@@ -77,9 +77,7 @@ https://www.youtube.com/watch?v=nmhjrI-aW5o
       
       
       
-      
-![image](https://user-images.githubusercontent.com/70281178/195181843-3d4b3cda-db4c-40c4-bfd9-11f5858fd389.png)
-      
+![image](https://user-images.githubusercontent.com/70281178/195182753-3d5bd23b-395e-4d6b-a1bf-9deee239f986.png)
       
       
    # 2
