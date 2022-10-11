@@ -5,7 +5,7 @@ https://www.youtube.com/watch?v=nmhjrI-aW5o
 
 ## Observation 
 
->  for each iteration the freatest value will be placed at the end
+>  for each iteration the greatest value will be placed at the end
 
       #include <iostream>
 
