@@ -51,3 +51,63 @@ https://www.youtube.com/watch?v=nmhjrI-aW5o
         }
     }
     }
+
+
+# Practical code that i did to understand
+
+      #include <iostream>
+
+      using namespace std;
+
+      int main()
+      {
+          int x = 10;
+         for(int i = 0;i<x-1;i++){
+             cout<<i+1<<" ";
+
+         }
+         cout<<endl;
+         for(int k = 0;k<5;k++){
+             cout<<endl<<"k :"<<k<<endl<<endl;
+             for(int j = 0;j<5-1-k;j++){
+                 cout<<"j: "<<j<<endl;
+             }
+         }
+      }
+      
+      
+      
+      
+      ![image](https://user-images.githubusercontent.com/70281178/195181843-3d4b3cda-db4c-40c4-bfd9-11f5858fd389.png)
+      
+      
+      
+   # 2
+   
+      #include <iostream>
+
+      using namespace std;
+
+      int main()
+      {
+          int x = 10;
+         for(int i = 0;i<x-1;i++){
+             cout<<i+1<<" ";
+
+         }
+         cout<<endl;
+         for(int k = 0;k<5-1;k++){   
+         //REAL CODE OF BUBBLE SORT WORKS THIS WAY
+             cout<<endl<<"k :"<<k<<endl<<endl;
+             for(int j = 0;j<5-1-k;j++){
+                 cout<<"j: "<<j<<endl;
+             }
+         }
+      }
+      
+      ![image](https://user-images.githubusercontent.com/70281178/195182372-330d10a4-b762-406e-9918-dece4b3958c6.png)
+
+
+FINAL OBSERVATION 
+
+that size - 1 in first loop is just to avoid the last looiteration which is already redundant
