@@ -78,7 +78,7 @@ https://www.youtube.com/watch?v=nmhjrI-aW5o
       
       
       
-      ![image](https://user-images.githubusercontent.com/70281178/195181843-3d4b3cda-db4c-40c4-bfd9-11f5858fd389.png)
+![image](https://user-images.githubusercontent.com/70281178/195181843-3d4b3cda-db4c-40c4-bfd9-11f5858fd389.png)
       
       
       
@@ -105,7 +105,7 @@ https://www.youtube.com/watch?v=nmhjrI-aW5o
          }
       }
       
-      ![image](https://user-images.githubusercontent.com/70281178/195182372-330d10a4-b762-406e-9918-dece4b3958c6.png)
+![image](https://user-images.githubusercontent.com/70281178/195182372-330d10a4-b762-406e-9918-dece4b3958c6.png)
 
 
 FINAL OBSERVATION 
