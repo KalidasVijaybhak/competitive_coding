@@ -23,3 +23,14 @@ In computing, a hash table, also known as hash map, is a data structure that imp
 
 Ideally, the hash function will assign each key to a unique bucket, but most hash table designs employ an imperfect hash function, which might cause hash collisions where the hash function generates the same index for more than one key. Such collisions are typically accommodated in some way.
 
+# Stack
+
+linear data structure
+Insertion and deletion are only allowed at the end called top
+## Operation 
+push(data)
+pop()
+top()
+size()  // returns size of stack
+isEmpty() // return true if stack is empty else false
+isFull()  //return true if stack is full else false
